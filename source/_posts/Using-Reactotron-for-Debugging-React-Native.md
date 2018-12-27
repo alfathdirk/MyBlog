@@ -2,7 +2,7 @@
 title: Using Reactotron for Debugging React Native
 date: 2018-12-20 19:35:38
 tags: ['javascript', 'react native']
-cover: https://github.com/infinitered/reactotron/raw/master/docs/images/readme/reactotron-demo-app.gif
+cover: https://i.ytimg.com/vi/tPBRfxswDjA/maxresdefault.jpg
 ---
 
 Hi gais, kali ini gw mau bahas tools debuging ReactNative, tadi abis nyari tools debug, sebenernya ada banyak banget tapi gua nyoba salah satu nya, yaitu reactotron
