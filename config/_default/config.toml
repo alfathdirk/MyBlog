@@ -1,7 +1,7 @@
 baseURL = "https://alfathdirk.github.io"
-copyright = "Copyright © 2021"
-title = "hugo-theme-gruvbox"
-#paginate = 10
+copyright = "Copyright © 2022"
+title = "AlfathDirk"
+paginate = 10
 enableRobotsTXT = true
 
 [markup]
@@ -18,14 +18,14 @@ enableRobotsTXT = true
 
 [params]
   # dark or light, defaults to light
-  #defaultTheme = "light"
+  defaultTheme = "dark"
   # gray red green yellow blue purple aqua orange, defaults to blue
   #themeColor = "blue"
   # soft medium hard, defaults to medium
   #themeContrast = "medium"
   author = "alfathdirk"
-  subtitle = "alfathdirk blog"
-  description = "Share all about love :D"
+  subtitle = "Share all about love"
+  description = "Share all about caring and love :D"
 
   [params.logo]
     text = "</alfathdirk "
